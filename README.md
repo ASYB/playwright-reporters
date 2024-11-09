@@ -5,7 +5,6 @@
 ## Features of this framework
 * Playwright Reporting
 * [Reporting: Allure](https://www.npmjs.com/package/allure-playwright)
-* [Cloud Integration: LambdaTest](http://www.lambdatest.com?fp_ref=md-moeen-ajaz40)
 
 ## Getting started
 
@@ -46,7 +45,3 @@
 ### Terminal Test Result
 ![Terminal Test Result](./assets/terminal-lt.PNG?raw=true "Terminal Test Result")
 
-### LambdaTest Cloud Results
-![LambdaTest Cloud Results](./assets/lambdatest-results.png?raw=true "LambdaTest Cloud Results")
-
-![LambdaTest Cloud Results Expanded View](./assets/lambdatest-results-expanded-view.png?raw=true "LambdaTest Cloud Results Expanded View")
